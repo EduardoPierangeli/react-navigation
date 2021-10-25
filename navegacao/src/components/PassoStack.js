@@ -1,6 +1,5 @@
 import React from 'react'
 import {View, Text, Button} from 'react-native'
-import TextoCentral from '../components/TextoCentral'
 
 export default props => {
     return(
